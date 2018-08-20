@@ -1,2 +1,2 @@
 # DroneRed
-This code is for development of Drone control software
+This repo is for development of Drone control software

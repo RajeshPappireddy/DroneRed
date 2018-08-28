@@ -1,1 +1,15 @@
+Flight Controller	Naze32 rev6 10DOF with 32-bit STM32 $17.89
 
+4 x Brushless Motor EMAX CF2812 1400KV Brushless Motor $35.04
+
+4 x ESCs SimonK 10A ESC with BEC $20.44
+
+2 x Propellers3-Blade Propeller 6x4.5 (CW/CCW) $4.10
+
+BatteryLipo 1500mah 3S 40C $15.69
+
+RadioLinkBluetooth Module (Level 5v) $8.99
+
+4 x Propeller MountPropeller Adapter (Collet Type) 3mm $4.80
+
+Battery PlugXT60 Male Female Bullet Connectors Plugs $1.19
